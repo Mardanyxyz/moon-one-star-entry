@@ -1,0 +1,1 @@
+Entrants write a single one-star review of the Moon, 120 characters at most, and try to make it the funniest line in the field. It should read like a real review: a rating, a grievance, a reason the Moon earned its single star. A judge model reads the entries two at a time and picks the funnier one each time, and the review that wins most often takes first place.
